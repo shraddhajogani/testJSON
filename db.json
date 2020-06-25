@@ -1,0 +1,21 @@
+[
+  {
+    "user": "user1",
+    "rating": "10"
+
+  },
+  {
+    "user": "user2",
+    "rating": "30"
+
+  },
+  {
+    "user": "user3",
+    "rating": "40"
+
+  },
+  {
+    "user": "user4",
+    "rating": "60"
+  }
+]
